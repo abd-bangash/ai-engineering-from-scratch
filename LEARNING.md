@@ -48,6 +48,7 @@ Total for Review and Do: about 1128 hours across all 20 phases.
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 | 2026-10-05 | 00/01-dev-environment | 3/3 | No admin rights: Git added to user PATH; `python3` is a Store alias, so use `python`; no GPU (CPU lessons, Colab for training). Verify preflight passes. |
+| 2026-10-05 | 00/02-git-and-collaboration | 3/3 | Git identity already set. Learner understands stage/commit/push and branching. Progress file committed on local branch my-progress. Fork not done yet. |
 
 ## Review queue
 
